@@ -2,5 +2,5 @@
 
 # Codedamn Mastering Reactjs tutorial
 
-## [Live](https://vanshsh.github.io/React-Quiz-App/)
+## [Live](https://sqpnt.csb.app/)
 ## [Code](https://codesandbox.io/s/quiz-app-sqpnt?file=/src/App.js)
