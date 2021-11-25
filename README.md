@@ -2,5 +2,6 @@
 
 # Codedamn Mastering Reactjs tutorial
 
-## [Live](https://sqpnt.csb.app/)
-## [Code](https://codesandbox.io/s/quiz-app-sqpnt?file=/src/App.js)
+### Check ⬇️
+##  ▶️  [Live](https://sqpnt.csb.app/)
+##  ▶️ [Code](https://codesandbox.io/s/quiz-app-sqpnt?file=/src/App.js)
