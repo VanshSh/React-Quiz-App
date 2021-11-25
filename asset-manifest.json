@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vanshsh.github.io/csb-sqpnt/static/css/main.bd6ea282.chunk.css",
+    "main.js": "https://vanshsh.github.io/csb-sqpnt/static/js/main.8c811863.chunk.js",
+    "main.js.map": "https://vanshsh.github.io/csb-sqpnt/static/js/main.8c811863.chunk.js.map",
+    "runtime-main.js": "https://vanshsh.github.io/csb-sqpnt/static/js/runtime-main.ce3a908a.js",
+    "runtime-main.js.map": "https://vanshsh.github.io/csb-sqpnt/static/js/runtime-main.ce3a908a.js.map",
+    "static/js/2.0b0d7352.chunk.js": "https://vanshsh.github.io/csb-sqpnt/static/js/2.0b0d7352.chunk.js",
+    "static/js/2.0b0d7352.chunk.js.map": "https://vanshsh.github.io/csb-sqpnt/static/js/2.0b0d7352.chunk.js.map",
+    "index.html": "https://vanshsh.github.io/csb-sqpnt/index.html",
+    "static/css/main.bd6ea282.chunk.css.map": "https://vanshsh.github.io/csb-sqpnt/static/css/main.bd6ea282.chunk.css.map",
+    "static/js/2.0b0d7352.chunk.js.LICENSE.txt": "https://vanshsh.github.io/csb-sqpnt/static/js/2.0b0d7352.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce3a908a.js",
+    "static/js/2.0b0d7352.chunk.js",
+    "static/css/main.bd6ea282.chunk.css",
+    "static/js/main.8c811863.chunk.js"
+  ]
+}
